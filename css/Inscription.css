@@ -1,0 +1,11 @@
+#fondecran
+{
+	height: 100%;
+	width: 100%;
+	background-image: url("background_sign.jpg");
+}
+
+.partie
+{
+	margin-top:20px;
+}

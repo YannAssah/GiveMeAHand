@@ -1,0 +1,29 @@
+a{
+	color: black;
+	display: inline;
+/*	text-align: right;*/
+}
+a:link{
+	text-decoration: none;
+}
+h1{
+	text-align: center;
+}
+button{
+	float: right;
+	margin-top: 20px;
+}
+form{
+	margin-top: 50px;
+}
+input{
+	margin-top: 20px;
+	text-decoration: none;
+}
+textarea{
+	text-align: center;
+}
+textarea:hover{
+	background-color: #E1E6FA;
+	color: black;
+}

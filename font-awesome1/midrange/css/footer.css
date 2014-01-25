@@ -1,0 +1,17 @@
+.footer {
+padding: 10px 0px 0px 0px;
+text-align: center;
+height: 170px;
+background-color: #9daeba;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #9daeba 0%, #cadae6 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9daeba), color-stop(100%,#cadae6));
+background: -webkit-linear-gradient(top, #9daeba 0%,#cadae6 100%);
+background: -o-linear-gradient(top, #9daeba 0%,#cadae6 100%);
+background: -ms-linear-gradient(top, #9daeba 0%,#cadae6 100%);
+background: linear-gradient(to bottom, #9daeba 0%,#cadae6 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9daeba', endColorstr='#cadae6',GradientType=0 );
+position: relative;
+clear: both;
+margin-top: -27px;
+}

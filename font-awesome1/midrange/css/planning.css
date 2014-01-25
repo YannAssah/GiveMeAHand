@@ -1,0 +1,72 @@
+
+/*dashboard.htmlmedia="screen"
+.row {
+margin-left: -15px;
+margin-right: -15px;
+}
+dashboard.htmlmedia="screen"
+* {
+margin: 0px;
+padding: 0px;
+text-decoration: none;
+outline: none;
+}
+dashboard.htmlmedia="screen"
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+user agent stylesheetdiv {
+display: block;
+}
+Pseudo ::before element
+dashboard.htmlmedia="screen"
+.row:before, .row:after {
+content: " ";
+display: table;
+}
+dashboard.htmlmedia="screen"
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+Pseudo ::after element
+dashboard.htmlmedia="screen"
+.row:after {
+clear: both;
+}
+dashboard.htmlmedia="screen"
+.row:before, .row:after {
+content: " ";
+display: table;
+}
+dashboard.htmlmedia="screen"
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+Inherited from body
+dashboard.htmlmedia="screen"
+body {
+font: normal 12px 'Open Sans', HelveticaNeue, Helvetica, Arial;
+color: #707070;
+}
+dashboard.htmlmedia="screen"
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 1.42857;
+color: #333333;
+}
+Inherited from html
+dashboard.htmlmedia="screen"
+html {
+font-size: 62.5%;
+}
+dashboard.htmlmedia="screen"
+html {
+font-family: sans-serif;
+} */
